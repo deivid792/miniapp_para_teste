@@ -1,0 +1,1 @@
+# miniapp_para_teste
